@@ -4,7 +4,7 @@
   "description": "experimenting with typescript and react",
   "main": "index.js",
   "dependencies": {
-    "typescript": "^1.5.3"
+    "typescript": "^1.6.0-beta"
   },
   "devDependencies": {},
   "scripts": {
