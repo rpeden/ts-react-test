@@ -1,0 +1,23 @@
+{
+  "name": "ts-react-test",
+  "version": "1.0.0",
+  "description": "experimenting with typescript and react",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpeden/ts-react-test.git"
+  },
+  "author": "Ryan Peden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpeden/ts-react-test/issues"
+  },
+  "homepage": "https://github.com/rpeden/ts-react-test#readme"
+}
