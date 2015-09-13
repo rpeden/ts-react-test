@@ -4,11 +4,13 @@
   "description": "experimenting with typescript and react",
   "main": "index.js",
   "dependencies": {
+    "react": "^0.13.3",
+    "ts-loader": "^0.5.4",
     "typescript": "^1.6.0-beta"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
