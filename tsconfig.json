@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "sourceMap": true
+    },
+    "compileOnSave": false,
+    "buildOnSave": false,
+    "filesGlob": [
+        "app/*.ts",
+        "app.*.tsx"
+    ],
+    "files": [
+        "app/app.ts"
+    ],
+    "declaration": true
+}
