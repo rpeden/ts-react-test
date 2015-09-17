@@ -6,7 +6,7 @@
   "dependencies": {
     "react": "^0.13.3",
     "ts-loader": "^0.5.4",
-    "typescript": "^1.6.0-beta"
+    "typescript": "^1.6.0"
   },
   "devDependencies": {},
   "scripts": {
